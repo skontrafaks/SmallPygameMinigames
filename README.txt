@@ -1,0 +1,1 @@
+run Attempt_1.py to start all games at once
